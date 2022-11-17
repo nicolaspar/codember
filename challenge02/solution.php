@@ -27,27 +27,3 @@ function resolveWord($ascii, &$word, &$new_words)
 }
 
 var_dump('submit '.trim($new_words));
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
